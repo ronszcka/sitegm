@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+
+User-agent: Yahoo Pipes 1.0
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: voltron
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://granmoney.com/sitemap.xml
